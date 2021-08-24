@@ -154,7 +154,7 @@
 
             <q-card-actions class="block">
               <a style="font-size: 25px;" class="q-py-sm q-pl-sm" href="http://52.79.106.72/"
-                 target="_blank" title="SlideShare"><i class="far fa-arrow-alt-circle-left" style="color: #eb5daa">Push</i></a>
+                 target="_blank" title="SlideShare"><i class="far fa-arrow-alt-circle-left" style="color: #eb5daa">Link</i></a>
               <div class="float-right q-py-sm">
                 <iframe class="float-right"
                         src="https://ghbtns.com/github-btn.html?user=DUYONGBEAK&repo=FRS_SpringFramework&type=fork&count=true&size=large"
@@ -229,7 +229,7 @@
                          href="https://github.com/wonyongHwang/kopoStockModel" target="_blank">CCI Stock Model</a>
                     </div>
                     <div class="text-caption text-grey-9">
-                      이 함수는 일정기간 주식의 CCI지표를 볼수있도록 값을 구해줍니다.<br>
+                      이  일정기간 주식의 CCI지표를 볼수있도록 값을 구해줍니다.<br>
                       단, 종가는 주식시장에서 보여지는 있는 그대로의 종가를 사용했기 때문에<br> 
                       수정종가를 사용하는 실제 CCI에 비해 정확도가 떨어질 수 있습니다.
                       <ul>
