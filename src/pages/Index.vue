@@ -387,7 +387,7 @@
     <div id="contact_us">
       <div style="background-color: rgba(0, 0, 0, 0.68) !important;">
         <form
-          action="https://formspree.io/f/mayabrvw"
+          action="https://formspree.io/f/xleaovly"
           method="POST"
         >
           <div class="row text-center flex flex-center q-py-lg">
