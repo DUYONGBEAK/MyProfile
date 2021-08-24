@@ -34,7 +34,7 @@
                style="border-top:3px solid #1595de;border-bottom: 3px solid #2faa64;">I'M a JUNIOR DEVELOPER.
           </div>
           <div class="text-h6" style="color: #f4b825;">
-            S/W DEVELOPER | FULL STACK JUNIOR ENGINEER | JOB SEEKER
+            S/W DEVELOPER | JUNIOR FULL STACK ENGINEER | JOB SEEKER
           </div>
           <div style="color: #1495de !important;" class="text-h4 q-mt-md text-grey-2 my-font">
             DUYONG BAEK
